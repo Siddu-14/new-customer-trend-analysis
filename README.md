@@ -1,3 +1,4 @@
+
 # 🛍️ Customer Shopping Behavior - Data Analytics Portfolio Project
 
 A complete, industry-standard end-to-end data analytics workflow using **Python**, **SQL**, and an **Interactive Plotly Dashboard** (browser-based alternative to Power BI).
@@ -133,3 +134,6 @@ Simply open `dashboard/index.html` in any modern web browser. No server or inter
 Built for Data Analytics Portfolio & Interview Preparation.
 
 > *"Turning raw data into strategic decisions — one query at a time."*
+
+# New-customer-trend-analysis
+End-to-end Customer Shopping Behavior Analytics project using Python, SQL, Pandas, SQLite, and interactive Plotly dashboards for business insights and data visualization.
